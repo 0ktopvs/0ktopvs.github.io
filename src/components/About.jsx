@@ -3,7 +3,7 @@ import '../styles.css';
 
 const About = () => {
   return (
-    <div className='container-fluid'>
+    <div className='container-fluid margin-from-navbar'>
       <h1 className='text-with-shadow'>About Me</h1>
       <p>Sviluppatore Fullstack con oltre 3 anni di esperienza nella creazione di applicazioni web robuste e scalabili. </p>
       <p>Mi piace affrontare sfide tecniche e trovare soluzioni efficienti sia sul fronte frontend che backend.</p>
