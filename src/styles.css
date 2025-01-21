@@ -1,0 +1,33 @@
+.social-links {
+    display: flex; /* Usa Flexbox */
+    gap: 30px; /* Aggiungi spazio tra le icone */
+    justify-content: center; /* Centra le icone orizzontalmente */
+    margin-top: 20px; /* Distanza dal contenuto sopra */
+  }
+  
+  .social-links a {
+    color: #000; /* Colore delle icone */
+    text-decoration: none; /* Rimuovi il sottolineato */
+    transition: color 0.3s ease;
+  }
+  
+  .social-links a:hover {
+    color: #0073b1; /* Colore delle icone al passaggio del mouse */
+  }
+
+  .text-with-shadow {
+    font-weight: bold;             /* Rende il testo in grassetto */
+    color: #ffffffe1;                   /* Imposta il colore del testo */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); /* Ombra sul testo */
+  }
+
+  .description {
+    color: #ffffffe1;  
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); 
+  }
+
+  h1, h2, p, ul, li {
+    color: #ffffffe1; 
+  }
+
+  
