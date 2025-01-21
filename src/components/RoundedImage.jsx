@@ -11,7 +11,7 @@ const RoundedImage = () => {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        marginTop: '50px',
+        marginTop: '100px',
         marginBottom: '30px',
         boxShadow: '2px 2px 5px rgba(0, 0, 0, 0.4)',
 
